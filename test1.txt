@@ -1,3 +1,4 @@
+branch2提交的内容
 1231231231232
 合并到master
 branch1新增
